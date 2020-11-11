@@ -1,0 +1,73 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,B02,RdC,"43,1 m2","7,2 m2",,,Box ssol. 47,<b>169 000 €</b>,3932 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A13,R+1,"46,4 m2","6,74 m2",,,pkg. ssol. 5,<b>176 000 €</b>,3803 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B04,RdC,"44,31 m2","5,83 m2",,,pkg. ssol. 46,<b>184 000 €</b>,4163 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B06,RdC,"44,31 m2","5,83 m2",,,pkg. ssol. 44,<b>184 000 €</b>,4163 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,C02,RdC,"45,13 m2","8,87 m2",,,pkg. ssol. 40,<b>184 000 €</b>,4088 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A10,RdC,"42,31 m2","6,99 m2",,,Box ssol. 4,<b>184 000 €</b>,4360 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A09,RdC,"42,34 m2","6,99 m2",,,pkg. ssol. 28,<b>184 000 €</b>,4357 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B15,R+2,"42,03 m2","7,28 m2",,,pkg. ssol. 53,<b>184 000 €</b>,4389 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A19,R+1,"42,31 m2","6,99 m2",,,pkg. ssol. 17,<b>189 000 €</b>,4478 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B11,R+1,"44,31 m2","5,83 m2",,,pkg. ssol. 58,<b>189 000 €</b>,4276 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B12,R+1,"44,31 m2","5,83 m2",,,pkg. ssol. 57,<b>189 000 €</b>,4276 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B16,R+2,"43,1 m2","7,2 m2",,,pkg. ssol. 52,<b>189 000 €</b>,4396 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B19,R+2,"44,31 m2","5,83 m2",,,pkg. ssol. 50 & 62,<b>199 000 €</b>,4502 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B20,R+2,"44,31 m2","5,83 m2",,,pkg. ssol. 49 & 63,<b>199 000 €</b>,4502 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A24,R+2,"43,73 m2","5,85 m2",,,pkg. ssol. 19,<b>194 000 €</b>,4447 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A27,R+2,"42,34 m2","6,99 m2",,,pkg. ext. 79 & ssol. 20,<b>199 000 €</b>,4711 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A28,R+2,"42,31 m2","6,99 m2",,,pkg. ext. 78 & ssol. 21,<b>199 000 €</b>,4715 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B18,R+2,"44,31 m2","5,83 m2",,,pkg. ext. 80 & ssol. 51,<b>199 000 €</b>,4502 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C01,RdC,"63,53 m2","8,86 m2",,,pkg. ssol. double 66d,<b>209 000 €</b>,3297 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A01,RdC,"59,77 m2","8,77 m2",,,pkg. ssol. 27,<b>209 000 €</b>,3505 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A02,RdC,"63,52 m2","8,92 m2",,,pkg. ssol. 26,<b>214 000 €</b>,3376 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A08,RdC,"65,04 m2","9,47 m2",,,pkg. ssol. 24,<b>214 000 €</b>,3297 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C03,RdC,"66,25 m2","11,69 m2",,,pkg. ssol. double 65d,<b>220 000 €</b>,3328 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A04,RdC,"60,74 m2","12,9 m2",,,pkg. ssol. 25,<b>219 000 €</b>,3613 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A11,R+1,"59,77 m2","8,77 m2",,,pkg. ssol. 23,<b>219 000 €</b>,3672 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A12,R+1,"63,52 m2","8,92 m2",,,Box ssol. 29,<b>224 000 €</b>,3534 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,B14,R+1,"61,74 m2","5,79 m2",,,pkg. ssol. 41,<b>219 000 €</b>,3555 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A17,R+1,"66,65 m2","9,47 m2",,,pkg. ssol. double 13d,<b>224 000 €</b>,3368 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A20,R+2,"59,77 m2","8,77 m2",,,pkg. ssol. double 12d,<b>229 000 €</b>,3839 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B21,R+2,"61,74 m2","5,79 m2",,,pkg. ssol. double 61d,<b>229 000 €</b>,3717 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C04,R+1,"65,57 m2","8,86 m2",,,pkg. ext. 67 & ssol. 39,<b>234 000 €</b>,3576 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,C05,R+1,"65,41 m2","10,84 m2",,,pkg. ext. 68 & ssol. 38,<b>234 000 €</b>,3585 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A23,R+2,"60,74 m2","9,6 m2",,,pkg. ssol. double 10d,<b>234 000 €</b>,3860 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A26,R+2,"66,65 m2","9,47 m2",,,pkg. ssol. double 9d,<b>234 000 €</b>,3518 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,C08,R+2,"65,41 m2","10,84 m2",,,pkg. ssol. 33 & ssol. 34,<b>244 000 €</b>,3737 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C09,R+2,"66,25 m2","9,72 m2",,,pkg. ext. 31 & ssol. 37,<b>239 000 €</b>,3615 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B02,,"43,1 m2",,,Sud,,<b>169 000 €</b>,3932 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A13,,"46,4 m2",,,Sud,,<b>184 000 €</b>,3976 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A10,,"42,31 m2",,,Sud,,<b>184 000 €</b>,4360 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A09,,"42,34 m2",,,Sud,,<b>184 000 €</b>,4357 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,C02,,"45,13 m2",,,Sud,,<b>184 000 €</b>,4088 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B15,,"42,03 m2",,,Sud,,<b>184 000 €</b>,4389 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B06,,"44,31 m2",,,Sud,,<b>184 000 €</b>,4163 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B04,,"44,31 m2",,,Sud,,<b>184 000 €</b>,4163 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,A19,,"42,31 m2",,,Sud,,<b>189 000 €</b>,4478 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B16,,"43,1 m2",,,Sud,,<b>189 000 €</b>,4396 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B12,,"44,31 m2",,,Sud,,<b>189 000 €</b>,4276 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B11,,"44,31 m2",,,Sud,,<b>189 000 €</b>,4276 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,A24,,"43,73 m2",,,Sud,,<b>194 000 €</b>,4447 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A27,,"42,34 m2",,,Sud,,<b>199 000 €</b>,4711 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A28,,"42,31 m2",,,Sud,,<b>199 000 €</b>,4715 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B20,,"44,31 m2",,,Sud,,<b>199 000 €</b>,4502 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B19,,"44,31 m2",,,Sud,,<b>199 000 €</b>,4502 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B18,,"44,31 m2",,,Sud,,<b>199 000 €</b>,4502 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A01,,"59,77 m2",,,Sud,,<b>209 000 €</b>,3505 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C01,,"63,53 m2",,,Sud,,<b>209 000 €</b>,3297 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A08,,"65,04 m2",,,Sud,,<b>214 000 €</b>,3297 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A02,,"63,52 m2",,,Sud,,<b>214 000 €</b>,3376 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A11,,"59,77 m2",,,Sud,,<b>219 000 €</b>,3672 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A04,,"60,74 m2",,,Sud,,<b>219 000 €</b>,3613 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,B14,,"61,74 m2",,,Sud,,<b>219 000 €</b>,3555 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C03,,"66,25 m2",,,Sud,,<b>220 000 €</b>,3328 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A17,,"66,65 m2",,,Sud,,<b>224 000 €</b>,3368 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A12,,"63,52 m2",,,Sud,,<b>224 000 €</b>,3534 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A20,,"59,77 m2",,,Sud,,<b>229 000 €</b>,3839 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B21,,"61,74 m2",,,Sud,,<b>229 000 €</b>,3717 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A26,,"66,65 m2",,,Sud,,<b>234 000 €</b>,3518 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A23,,"60,74 m2",,,Sud,,<b>234 000 €</b>,3860 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C05,,"65,41 m2",,,Sud,,<b>234 000 €</b>,3585 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C04,,"65,57 m2",,,Sud,,<b>234 000 €</b>,3576 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,C09,,"66,25 m2",,,Sud,,<b>239 000 €</b>,3615 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C08,,"65,41 m2",,,Sud,,<b>244 000 €</b>,3737 €/m2,Disponible,<button>Plan</button>

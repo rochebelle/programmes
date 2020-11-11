@@ -1,0 +1,22 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T4</b>,2001,RdC,109 m2,35 m2,,Sud,2,<b>617 000 €</b>,5660 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,2010,RdC,79 m2,11 m2,,Est,2,<b>465 000 €</b>,5886 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,2014,RdC,84 m2,27 m2,,Nord-Ouest,2,<b>476 000 €</b>,5666 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,2017,RdC,53 m2,11 m2,,Nord-Est,2,<b>355 000 €</b>,6698 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,2102,R+1,90 m2,17 m2,,Sud-Est,2,<b>485 000 €</b>,5388 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,2204,R+2,86 m2,31 m2,,Est,2,<b>569 000 €</b>,6616 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,2209,R+2,88 m2,16 m2,,Ouest,2,<b>488 000 €</b>,5545 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,2211,R+2,84 m2,25 m2,,Ouest,2,<b>495 000 €</b>,5892 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,4205,R+2,59 m2,10 m2,,Sud-Ouest,1,<b>320 000 €</b>,5423 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,4207,R+2,54 m2,34 m2,,Nord-Est,1,<b>345 000 €</b>,6388 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,4308,R+3,100 m2,21 m2,,Nord-Ouest,2,<b>550 000 €</b>,5500 €/m2,Disponible,<button>Plan</button>
+<b>T5</b>,4311,R+3,119 m2,18 m2,,Nord-Est,2,<b>620 000 €</b>,5210 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,4504,R+5,99 m2,49 m2,,Nord-Ouest,2,<b>760 000 €</b>,7676 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,4601,R+6,38 m2,7 m2,,Est,1,<b>258 000 €</b>,6789 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,4604,R+6,92 m2,27 m2,,Nord-Ouest,2,<b>649 000 €</b>,7054 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,4605,R+6,46 m2,8 m2,,Nord,1,<b>295 000 €</b>,6413 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,4606,R+6,85 m2,30 m2,,Nord-Est,2,<b>585 000 €</b>,6882 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,4701,R+7,88 m2,30 m2,,Sud-Est,2,<b>720 000 €</b>,8181 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,4703,R+7,92 m2,21 m2,,Nord-Ouest,2,<b>660 000 €</b>,7173 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,4704,R+7,42 m2,6 m2,,Nord,1,<b>278 000 €</b>,6619 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,4705,R+7,46 m2,7 m2,,Est,1,<b>305 000 €</b>,6630 €/m2,Disponible,<button>Plan</button>

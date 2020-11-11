@@ -1,0 +1,14 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,12L001,,"43,62 m2",,,Nord-Est,,<b>229 000 €</b>,5249 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,12L101,,"43,62 m2",,,Sud-Est,,<b>235 000 €</b>,5387 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,12L105,,"43,04 m2",,,Nord-Ouest,,<b>235 000 €</b>,5460 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,12L102,,"43,16 m2",,,Sud-Ouest,,<b>238 000 €</b>,5514 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,12L201,,"43,62 m2",,,Sud-Est,,<b>239 000 €</b>,5479 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,12L205,,"43,04 m2",,,Nord-Ouest,,<b>239 000 €</b>,5552 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,12L202,,"43,16 m2",,,Sud-Ouest,,<b>242 000 €</b>,5607 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,12L103,,"59,05 m2",,,Est,,<b>283 000 €</b>,4792 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,12L104,,"60,92 m2",,,Nord-Est,,<b>285 000 €</b>,4678 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,12L203,,"59,05 m2",,,Est,,<b>287 000 €</b>,4860 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,12L302,,"59,05 m2",,,Est,,<b>291 000 €</b>,4928 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,12L303,,"60,92 m2",,,Nord-Est,,<b>293 000 €</b>,4809 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,12L301,,"89,36 m2",,,Traversant,,<b>409 000 €</b>,4576 €/m2,Optionné,<button>Plan</button>

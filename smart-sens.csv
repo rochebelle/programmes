@@ -1,0 +1,9 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,A04,RdC,"42,6 m2","7,3 m2",,,pkg. ssol. 27B,<b>215 000 €</b>,5046 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,A10,R+2,"42,6 m2","7,3 m2",,,pkg. ssol. 12B,<b>240 000 €</b>,5633 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B19,R+5,40 m2,"11,7 m2",,,pkg. ssol. 18,<b>260 000 €</b>,6500 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A01,RdC,"59,3 m2","11,2 m2",,,pkg. ssol. 20,<b>290 000 €</b>,4890 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B17,R+4,"61,3 m2","7,9 m2",,,Box ssol. 15,<b>330 000 €</b>,5383 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A16,R+6,"61,8 m2","33,8 m2",,,Box ssol. 7,<b>370 000 €</b>,5987 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,A14,R+4,"92,2 m2","106,3 m2",,,"Box ssol. 16, pkg. ssol. 14",<b>425 000 €</b>,4609 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B23,R+6,"76,9 m2","30,8 m2",,,"Box ssol. 31, pkg. ssol. 29",<b>425 000 €</b>,5526 €/m2,Disponible,<button>Plan</button>

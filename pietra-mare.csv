@@ -1,0 +1,19 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T5</b>,A001,RdC,"205,74 m2",,,,"22, 23 et 53",<b>850 000 €</b>,4131 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,A101,R+1,"127,88 m2",,,,33 et 56,<b>700 000 €</b>,5473 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A102,R+1,69 m2,,,,"28, 29",<b>450 000 €</b>,6521 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B001,RdC,"108,32 m2",,,,"1, 2, 51",<b>590 000 €</b>,5446 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B002,RdC,"62,57 m2",,,,"24, 48",<b>450 000 €</b>,7191 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B101,R+1,"108,32 m2",,,,"7, 8 et 50",<b>630 000 €</b>,5816 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B103,R+1,"100,29 m2",,,,"3, 4",<b>610 000 €</b>,6082 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B201,R+2,"108,32 m2",,,,"13, 14",<b>660 000 €</b>,6093 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B302,R+3,"62,57 m2",,,,"44, 45",<b>490 000 €</b>,7831 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,A201,R+2,"127,88 m2",,,,11 et 12,<b>730 000 €</b>,5708 €/m2,Vendu,<button>Plan</button>
+<b>T3</b>,A202,R+2,69 m2,,,,"20, 21",<b>450 000 €</b>,6521 €/m2,Vendu,<button>Plan</button>
+<b>T5</b>,A301,R+3,"205,74 m2",,,,"34, 35 et 55",<b>1 150 000 €</b>,5589 €/m2,Vendu,<button>Plan</button>
+<b>T4</b>,B003,RDC,"100,29 m2",,,,"15, 52",<b>590 000 €</b>,5882 €/m2,Vendu,<button>Plan</button>
+<b>T4</b>,B301,R+3,"108,32 m2",,,,"46, 47",<b>660 000 €</b>,6093 €/m2,Vendu,<button>Plan</button>
+<b>T4</b>,B303,R+3,"100,29 m2",,,,"9, 10, 49",<b>650 000 €</b>,6481 €/m2,Vendu,<button>Plan</button>
+<b>T3</b>,C001,RdC,"71,8 m2",,,,"18, 19",<b>450 000 €</b>,6267 €/m2,Vendu,<button>Plan</button>
+<b>T3</b>,C002,RdC,"82,73 m2",,,,"16, 17",<b>490 000 €</b>,5922 €/m2,Vendu,<button>Plan</button>
+<b>T3</b>,C101,R+1,"71,8 m2",,,,"26, 27",<b>470 000 €</b>,6545 €/m2,Vendu,<button>Plan</button>

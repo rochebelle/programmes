@@ -1,0 +1,5 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T4</b>,B05,R+1,"79,1 m2","10,94 m2",,,Garage ssol. double 12,<b>399 000 €</b>,5050 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B08,R+2,"79,1 m2","10,84 m2",,,Garage ssol. 19 & 20,<b>409 000 €</b>,5170 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,B05,,"79,1 m2",,,Sud-Ouest,,<b>399 000 €</b>,5050 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B08,,"79,1 m2",,,Sud-Ouest,,<b>409 000 €</b>,5170 €/m2,Optionné,<button>Plan</button>

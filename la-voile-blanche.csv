@@ -1,0 +1,7 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,A92,R+9,"44,3 m2",,,,,<b>255 000 €</b>,5756 €/m2,Réservé,<button>Plan</button>
+<b>T3</b>,A86,R+8,"57,1 m2",,,,,<b>300 000 €</b>,5253 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C92,R+9,"87,7 m2",,,,,<b>715 000 €</b>,8152 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,A85,R+8,96 m2,,,,,<b>799 000 €</b>,8322 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,C93,R+9,"159,69 m2",,,,,<b>1 359 000 €</b>,8510 €/m2,Disponible,<button>Plan</button>
+<b>T5</b>,A84,R+8,"112,8 m2",,,,,<b>932 000 €</b>,8262 €/m2,Disponible,<button>Plan</button>

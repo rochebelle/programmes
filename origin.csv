@@ -1,0 +1,5 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T3</b>,lot ' 1,,"68,5 m2",,,Est,,<b>332 000 €</b>,4846 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,lot ' 25,,"72,8 m2",,,Sud,,<b>352 000 €</b>,4835 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,lot ' 23,,"102,74 m2",,,Ouest,,<b>434 000 €</b>,4224 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,lot ' 24,,"113,34 m2",,,Sud,,<b>447 000 €</b>,3943 €/m2,Optionné,<button>Plan</button>

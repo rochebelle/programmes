@@ -1,0 +1,5 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,A01,,53.08 m2,,,Sud,,<b>385 000 €</b>,7253 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B11,,53.31 m2,,,Sud,,<b>395 000 €</b>,7409 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B12,,75.8 m2,,,Sud,,<b>555 000 €</b>,7321 €/m2,Disponible,<button>Plan</button>
+<b>T5</b>,B21,,158.48 m2,,,Sud-Est,,<b>1 650 000 €</b>,10411 €/m2,Disponible,<button>Plan</button>

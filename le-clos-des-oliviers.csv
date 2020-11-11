@@ -1,0 +1,6 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,B01,R+1,"43,97 m2","9,92 m2",,,pkg. ext. 70 & 71,<b>194 000 €</b>,4412 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,D17,RdC,"43,53 m2","10,46 m2",,,pkg. ext. 71 & ssol. double 37D,<b>215 000 €</b>,4939 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B12,R+3,"47,05 m2","7,11 m2",,,pkg. ext. 108 & ssol. 13,<b>219 000 €</b>,4654 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B01,,"43,97 m2",,,Nord,,<b>194 000 €</b>,4412 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,D17,,"43,53 m2",,,Nord,,<b>215 000 €</b>,4939 €/m2,Disponible,<button>Plan</button>

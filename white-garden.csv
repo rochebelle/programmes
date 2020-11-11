@@ -1,0 +1,24 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,A06,RdC,"43,47 m2","11,85 m2","12,45 m2",,Box ssol. 23,<b>205 000 €</b>,4715 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B02,RdC,"41,22 m2","11,18 m2",,,Box ssol. 43,<b>220 000 €</b>,5337 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,A72,R+7,"45,61 m2","13,9 m2",,,Garage ssol. double 10d,<b>249 000 €</b>,5459 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A13,R+1,"59,97 m2","9,31 m2",,,Box ssol. 71,<b>246 000 €</b>,4102 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A43,R+4,"59,97 m2","9,31 m2",,,Garage ssol. 78,<b>261 000 €</b>,4352 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A29,R+2,"56,58 m2","8,02 m2",,,Garage ssol. 26,<b>266 000 €</b>,4701 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A62,R+6,"59,97 m2","9,31 m2",,,Garage ssol. 41,<b>271 000 €</b>,4518 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A49,R+4,"56,58 m2","8,02 m2",,,Garage ssol. 02,<b>276 000 €</b>,4878 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A04,RdC,"62,17 m2","13,99 m2","33,5 m2",,Garage ssol. 06,<b>281 000 €</b>,4519 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A24,R+2,"61,76 m2","12,87 m2",,,Garage ssol. 05,<b>281 000 €</b>,4549 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A58,R+5,"56,06 m2","8,02 m2",,,Garage ssol. 04,<b>281 000 €</b>,5012 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A01,RdC,"67,25 m2","25,06 m2","68,49 m2",,Garage ssol. 69,<b>286 000 €</b>,4252 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B12,R+1,"61,5 m2","18,07 m2",,,Garage ssol. 55,<b>286 000 €</b>,4650 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B24,R+2,"60,1 m2","7,91 m2",,,Garage ssol. 54,<b>286 000 €</b>,4758 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A41,R+4,"64,43 m2","11,72 m2",,,Garage ssol. 81,<b>291 000 €</b>,4516 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A44,R+4,"61,76 m2","12,87 m2",,,Garage ssol. 61,<b>291 000 €</b>,4711 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B44,R+4,"60,1 m2","7,91 m2",,,Garage ssol. 80,<b>296 000 €</b>,4925 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A63,R+6,"61,76 m2","12,87 m2",,,Garage ssol. double 67d,<b>301 000 €</b>,4873 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B11,R+1,"77,62 m2","15,52 m2",,,Box ssol. double 21d,<b>341 000 €</b>,4393 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B23,R+2,"82,61 m2","20,56 m2",,,Box ssol. double 51d,<b>361 000 €</b>,4369 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,B43,R+4,"82,61 m2","20,56 m2",,,Box ssol. double 98d,<b>381 000 €</b>,4612 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B04,RdC,"82,61 m2","23,33 m2","112,3 m2",,Garage ssol. double 12d,<b>386 000 €</b>,4672 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B51,R+5,"76,3 m2","15,65 m2",,,Box ssol. double 52d,<b>386 000 €</b>,5058 €/m2,Disponible,<button>Plan</button>

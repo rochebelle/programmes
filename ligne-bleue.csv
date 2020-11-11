@@ -1,0 +1,3 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,5104,R+1,42 m2,17 m2,,Est-Ouest,1,<b>164 000 €</b>,3926 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,5304,R+3,42 m2,17 m2,,Nord-Sud,1,<b>169 000 €</b>,4035 €/m2,Disponible,<button>Plan</button>

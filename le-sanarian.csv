@@ -1,0 +1,15 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T4</b>,A0-1,RdC,"85,9 m2",,,,12D,<b>589 000 €</b>,6856 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,A0-4,RdC,"84,4 m2",,,,15 + 14,<b>575 000 €</b>,6812 €/m2,Disponible,<button>Plan</button>
+<b>0</b>,PKG18,,,,,,,<b>19 000 €</b>,-,Disponible,<button>Plan</button>
+<b>0</b>,PKG19,,,,,,,<b>19 000 €</b>,-,Disponible,<button>Plan</button>
+<b>0</b>,PKG20,,,,,,,<b>24 000 €</b>,-,Disponible,<button>Plan</button>
+<b>0</b>,PKG21,,,,,,,<b>9 000 €</b>,-,Disponible,<button>Plan</button>
+<b>0</b>,PKG22,,,,,,,<b>9 000 €</b>,-,Disponible,<button>Plan</button>
+<b>0</b>,PKG23,,,,,,,<b>9 000 €</b>,-,Disponible,<button>Plan</button>
+<b>0</b>,PKG3,,,,,,,<b>12 000 €</b>,-,Disponible,<button>Plan</button>
+<b>0</b>,PKG4,,,,,,,<b>12 000 €</b>,-,Disponible,<button>Plan</button>
+<b>0</b>,PKG5,,,,,,,<b>12 000 €</b>,-,Disponible,<button>Plan</button>
+<b>T3</b>,A1-3,R+1,"66,2 m2",,,,16 + 24,<b>460 000 €</b>,6948 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A0-2,RdC,"66,2 m2",,,,11D,<b>450 000 €</b>,6797 €/m2,Vendu,<button>Plan</button>
+<b>0</b>,Cave,,,,,,,<b>6 000 €</b>,-,Vendu,<button>Plan</button>

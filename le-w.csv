@@ -1,0 +1,27 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T1</b>,,R+2,"30,85 m2",,,,,<b>249 000 €</b>,8071 €/m2,Optionné,<button>Plan</button>
+<b>T1</b>,,RdC,"35,18 m2",,,,,<b>242 000 €</b>,6878 €/m2,Réservé,<button>Plan</button>
+<b>T2</b>,F12,R+1,"48,55 m2",,,,,<b>299 000 €</b>,6158 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,E02,RdC,"50,4 m2",,,,,<b>336 000 €</b>,6666 €/m2,Réservé,<button>Plan</button>
+<b>T2</b>,A02,RdC,"55,95 m2",,,,,<b>349 000 €</b>,6237 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,A01,RdC,63 m2,,,,,<b>339 000 €</b>,5380 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,D11,R+1,"57,5 m2",,,,,<b>399 000 €</b>,6939 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A12,R+1,"60,05 m2",,,,,<b>379 000 €</b>,6311 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,F02,RdC,"68,34 m2",,,,,<b>429 000 €</b>,6277 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,C22,R+2,"70,5 m2",,,,,<b>469 000 €</b>,6652 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A21,R+2,"71,59 m2",,,,,<b>449 000 €</b>,6271 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B12,R+1,"84,99 m2",,,,,<b>464 000 €</b>,5459 €/m2,Réservé,<button>Plan</button>
+<b>T4</b>,D01,RdC,"74,45 m2",,,,,<b>466 000 €</b>,6259 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B11,R+1,"78,7 m2",,,,,<b>469 000 €</b>,5959 €/m2,Réservé,<button>Plan</button>
+<b>T4</b>,B21,R+2,"78,7 m2",,,,,<b>599 000 €</b>,7611 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,C11,R+1,"78,75 m2",,,,,<b>459 000 €</b>,5828 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,C21,R+2,"78,76 m2",,,,,<b>570 000 €</b>,7237 €/m2,Réservé,<button>Plan</button>
+<b>T4</b>,F11,R+1,"81,05 m2",,,,,<b>499 000 €</b>,6156 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,F01,RdC,"84,9 m2",,,,,<b>572 000 €</b>,6737 €/m2,Réservé,<button>Plan</button>
+<b>T4</b>,C01,RdC,"86,9 m2",,,,,<b>499 000 €</b>,5742 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,A24,R+2,"90,06 m2",,,,,<b>659 000 €</b>,7317 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,A14,R+1,"90,2 m2",,,,,<b>539 000 €</b>,5975 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,A04,RdC,"90,3 m2",,,,,<b>529 000 €</b>,5858 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,E2122,R+2,"99,8 m2",,,,,<b>830 000 €</b>,8316 €/m2,Réservé,<button>Plan</button>
+<b>T4</b>,E1112,R+1,"99,95 m2",,,,,<b>635 000 €</b>,6353 €/m2,Réservé,<button>Plan</button>
+<b>T4</b>,F2122,R+2,"125,9 m2",,,,,<b>1 049 000 €</b>,8332 €/m2,Optionné,<button>Plan</button>

@@ -1,0 +1,9 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,lot ' 12,,"44,7 m2",,,Est,,<b>314 000 €</b>,7024 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,lot ' 25,,"43,7 m2",,,Ouest,,<b>324 000 €</b>,7414 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,lot ' 14,,"58,4 m2",,,Ouest,,<b>430 000 €</b>,7363 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,lot ' 23,,"67,3 m2",,,Sud,,<b>515 000 €</b>,7652 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,lot ' 22,,"70,7 m2",,,Est,,<b>535 000 €</b>,7567 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,lot ' 11,,"78,8 m2",,,Est,,<b>580 000 €</b>,7360 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,lot ' 13,,"85,9 m2",,,Sud,,<b>625 000 €</b>,7275 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,lot ' 24,,"85,9 m2",,,Sud,,<b>645 000 €</b>,7508 €/m2,Disponible,<button>Plan</button>

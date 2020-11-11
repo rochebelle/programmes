@@ -1,0 +1,8 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T3</b>,A105,,"66,14 m2",,,Sud-Est,,<b>337 000 €</b>,5095 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,B005,,"73,87 m2",,,Nord-Est,,<b>350 000 €</b>,4738 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B101,,"68,16 m2",,,Sud-Ouest,,<b>352 000 €</b>,5164 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B105,,"73,87 m2",,,Nord-Est,,<b>355 000 €</b>,4805 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,A401,,"107,74 m2",,,Sud-Est,,<b>655 000 €</b>,6079 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,A303,,106 m2,,,Sud,,<b>685 000 €</b>,6462 €/m2,Disponible,<button>Plan</button>
+<b>T5</b>,B401,,"138,02 m2",,,Sud-Ouest,,<b>1 200 000 €</b>,8694 €/m2,Disponible,<button>Plan</button>

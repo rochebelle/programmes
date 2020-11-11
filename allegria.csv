@@ -1,0 +1,24 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,01A007,,37.9 m2,,,Nord,,191 000 €,5052 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01B005,,40.89 m2,,,Sud,,215 000 €,5270 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01A013,,38.73 m2,,,Sud,,216 000 €,5577 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,01A019,,40.65 m2,,,Est,,217 000 €,5350 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01B006,,40.86 m2,,,Sud,,217 000 €,5323 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01A023,,38.73 m2,,,Sud,,220 000 €,5680 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01A029,,40.65 m2,,,Est,,226 000 €,5559 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A028,,61 m2,,,Est,,286 000 €,4688 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A012,,60.1 m2,,,Sud,,292 000 €,4858 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B027,,60.63 m2,,,Ouest,,295 000 €,4865 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,01A022,,60.1 m2,,,Sud,,296 000 €,4925 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B004,,62.3 m2,,,Sud,,299 000 €,4807 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B013,,62.51 m2,,,Est,,300 000 €,4807 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B023,,62.51 m2,,,Est,,304 000 €,4871 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B014,,62.3 m2,,,Sud,,305 000 €,4903 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B024,,62.3 m2,,,Sud,,309 000 €,4967 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,01B025,,78.16 m2,,,Sud,,352 000 €,4503 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,01B026,,86.34 m2,,,Sud,,372 000 €,4308 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B017,R+1,60.63 m2,"11,6 m2",,Sud-Ouest,B44,291 000 €,4799 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A014,R+1,60.65 m2,"10,85 m2",,Sud-Ouest,S12,269 000 €,4443 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B003,RdC,62.51 m2,"17,5 m2",,Est,B30,294 000 €,4711 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B001,RdC,40.9 m2,"9,8 m2",,Est,S40,198 000 €,4841 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A002,RdC,60.1 m2,"13,9 m2",,Sud,B18,282 000 €,4692 €/m2,Disponible,<button>Plan</button>

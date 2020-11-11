@@ -1,0 +1,4 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T3</b>,17B,Duplex,"65,3 m2",,112 m2,Nord-Ouest,PKE 1,<b>308 000 €</b>,4716 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,16B,Duplex,"65,3 m2",,111 m2,Nord-Est,PKE 5,<b>308 000 €</b>,4716 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,15A,Duplex,"65,3 m2",,153 m2,Nord-Est,PKE 13,<b>308 000 €</b>,4716 €/m2,Disponible,<button>Plan</button>

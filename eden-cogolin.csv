@@ -1,0 +1,17 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,B06,RdC,"37,4 m2","5,97 m2",,,pkg. ssol. 05,<b>202 000 €</b>,5414 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A11,R+1,"41,92 m2","5,99 m2",,,pkg. ssol. 21,<b>217 000 €</b>,5188 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,A05,RdC,"41,92 m2","10,89 m2","22,13 m2",,pkg. ssol. 23,<b>232 000 €</b>,5546 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A06,RdC,"60,72 m2","8,14 m2",,,pkg. ssol. 24,<b>262 000 €</b>,4323 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B05,RdC,"61,82 m2","8,63 m2","20,03 m2",,Garage ssol. 09,<b>295 000 €</b>,4771 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A03,RdC,"60,98 m2","20,9 m2","39,67 m2",,Garage ssol. 02,<b>300 000 €</b>,4919 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B13,R+2,"73,13 m2","25,13 m2",,,Garage ssol. 11,<b>340 000 €</b>,4649 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,A13,R+2,"92,1 m2","19,44 m2",,,Garage ssol. 01,<b>420 000 €</b>,4560 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B06,,"37,4 m2",,,Est,,<b>202 000 €</b>,5414 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A11,,"41,92 m2",,,Ouest,,<b>217 000 €</b>,5188 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,A05,,"41,92 m2",,,Ouest,,<b>232 000 €</b>,5546 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A06,,"60,72 m2",,,Est,,<b>262 000 €</b>,4323 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B05,,"61,82 m2",,,Ouest,,<b>295 000 €</b>,4771 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A03,,"60,98 m2",,,Ouest,,<b>300 000 €</b>,4919 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B13,,"73,13 m2",,,Nord-Ouest,,<b>340 000 €</b>,4649 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,A13,,"92,1 m2",,,Sud-Ouest,,<b>420 000 €</b>,4560 €/m2,Disponible,<button>Plan</button>

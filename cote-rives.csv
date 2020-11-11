@@ -1,0 +1,13 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,B18,R+2,"39,07 m2","6,28 m2",,,pkg. ssol. 13D,<b>210 000 €</b>,5374 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B23,R+3,"38,97 m2","6,28 m2",,,pkg. ssol. 54 & 55,<b>213 000 €</b>,5465 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B24,R+3,"39,07 m2","6,28 m2",,,pkg. ssol. 15D,<b>213 000 €</b>,5451 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B22,R+3,"46,03 m2","5,56 m2",,,pkg. ssol. double 10D,<b>219 000 €</b>,4757 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B07,R+1,"64,65 m2","9,08 m2",,,pkg. ssol. 38D,<b>271 000 €</b>,4191 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B09,R+1,"58,85 m2","13,04 m2",,,pkg. ssol. 39D,<b>282 000 €</b>,4791 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B18,,"39,07 m2",,,Nord,,<b>210 000 €</b>,5374 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B23,,"38,97 m2",,,Nord,,<b>213 000 €</b>,5465 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B24,,"39,07 m2",,,Nord,,<b>213 000 €</b>,5451 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B22,,"46,03 m2",,,Ouest,,<b>219 000 €</b>,4757 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B07,,"64,65 m2",,,Sud,,<b>271 000 €</b>,4191 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B09,,"58,85 m2",,,Ouest,,<b>282 000 €</b>,4791 €/m2,Disponible,<button>Plan</button>

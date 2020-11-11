@@ -1,0 +1,8 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,B02,RdC,"40,47 m2","10,9 m2",,,Garage ssol. 51,<b>194 000 €</b>,4806 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,A10,R+1,"40,54 m2","10,72 m2",,,Garage ssol. double 16D,<b>199 000 €</b>,4921 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B22,R+3,"40,07 m2","6,37 m2",,,Garage ssol. double 43D,<b>201 000 €</b>,5028 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A04,RdC,"63,55 m2","18,28 m2",,,Garage ssol. double 63D,<b>262 000 €</b>,4122 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B02,,"40,47 m2",,,Sud-Est,,<b>194 000 €</b>,4806 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B22,,"40,07 m2",,,Nord-Ouest,,<b>201 000 €</b>,5028 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A04,,"63,55 m2",,,Sud-Est,,<b>262 000 €</b>,4122 €/m2,Disponible,<button>Plan</button>

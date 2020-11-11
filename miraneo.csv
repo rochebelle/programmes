@@ -1,0 +1,21 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,1002,RdC,35 m2,6 m2,,Ouest,1,<b>145 000 €</b>,4143 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1005,RdC,41 m2,6 m2,,Est,1,<b>153 000 €</b>,3745 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1104,R+1,40 m2,6 m2,,Nord,1,<b>161 000 €</b>,4037 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1106,R+1,35 m2,6 m2,,Ouest,1,<b>153 000 €</b>,4387 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1109,R+1,37 m2,8 m2,,Sud,1,<b>160 000 €</b>,4334 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1203,R+2,57 m2,7 m2,,Nord,2,<b>191 000 €</b>,3352 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1205,R+2,53 m2,8 m2,,Ouest,2,<b>191 000 €</b>,3605 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1206,R+2,35 m2,6 m2,,Ouest,1,<b>155 000 €</b>,4452 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1302,R+3,61 m2,3 m2,,Sud,2,<b>213 000 €</b>,3505 €/m2,Disponible,<button>Plan</button>
+<b>T5</b>,1303,R+3,124 m2,12 m2,,Sud-Nord,2,<b>305 000 €</b>,2467 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1304,R+3,56 m2,6 m2,,Nord,2,<b>197 000 €</b>,3534 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1305,R+3,56 m2,5 m2,,Nord,2,<b>196 000 €</b>,3513 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1306,R+3,40 m2,19 m2,,Nord,1,<b>172 000 €</b>,4322 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,1307,R+3,91 m2,6 m2,,Ouest,2,<b>271 000 €</b>,2987 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1308,R+3,35 m2,6 m2,,Ouest,1,<b>160 000 €</b>,4582 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1309,R+3,54 m2,3 m2,,Ouest,2,<b>188 000 €</b>,3496 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,1311,R+3,79 m2,8 m2,,Sud,2,<b>257 000 €</b>,3261 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1314,R+3,61 m2,3 m2,,Est,2,<b>199 000 €</b>,3272 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1401,R+4,43 m2,12 m2,,Nord,1,<b>175 000 €</b>,4073 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1402,R+4,45 m2,5 m2,,Ouest,1,<b>171 000 €</b>,3816 €/m2,Disponible,<button>Plan</button>

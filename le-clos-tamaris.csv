@@ -1,0 +1,37 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,408,R+4,"41,54 m2","7,83 m2",,Sud,Ext. 15,<b>184 000 €</b>,4429 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,406,R+4,"45,73 m2",,,Est,Ext. 14,<b>179 000 €</b>,3914 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,403,R+4,"43,09 m2","5,91 m2",,Nord,Ext. 13,<b>181 000 €</b>,4200 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,308,R+3,"62,47 m2","6,98 m2",,Sud,SS. 20 / 20 bis,<b>250 000 €</b>,4001 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,307,R+3,"69,56 m2","33,52 m2",,Sud,SS. 25 / 25 bis,<b>279 000 €</b>,4010 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,304,R+3,"61,34 m2","8,71 m2",,Nord,"SS. 7, Ext. 23",<b>236 000 €</b>,3847 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,303,R+3,"60,87 m2","8,81 m2",,Nord,"SS. 33, Ext. 22",<b>234 000 €</b>,3844 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,301,R+3,"45,14 m2","3,74 m2",,Sud,SS. 14,<b>191 000 €</b>,4231 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,211,R+2,"43,37 m2","7,07 m2",,Sud,SS. 13,<b>191 000 €</b>,4403 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,210,R+2,"45,23 m2","7,07 m2",,Sud,SS. 12,<b>193 000 €</b>,4267 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,209,R+2,"44,28 m2","6,57 m2",,Sud,SS. 11,<b>190 000 €</b>,4290 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,208,R+2,"49,32 m2","6,57 m2",,Sud,SS. 10,<b>199 000 €</b>,4034 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,207,R+2,"65,98 m2","6,1 m2",,Nord,SS. 24 / 24 bis,<b>248 000 €</b>,3758 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,206,R+2,"41,67 m2","8,38 m2",,Nord,Ext. 10,<b>179 000 €</b>,4295 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,205,R+2,"61,34 m2","8,75 m2",,Nord,"SS. 32, Ext. 21",<b>234 000 €</b>,3814 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,203,R+2,"44,45 m2","19,26 m2",,Ouest,SS. 9,<b>198 000 €</b>,4454 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,202,R+2,"47,91 m2","24,21 m2",,Sud,SS. 8,<b>209 000 €</b>,4362 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,201,R+2,"45,13 m2","5,25 m2",,Sud,SS. 1,<b>191 000 €</b>,4232 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,111,R+1,"43,71 m2","7,14 m2",,Sud,SS. 18,<b>188 000 €</b>,4301 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,110,R+1,"45,26 m2","7,01 m2",,Sud,SS. 15,<b>191 000 €</b>,4220 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,109,R+1,"44,34 m2","6,6 m2",,Sud,SS. 16,<b>190 000 €</b>,4285 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,108,R+1,"49,32 m2",,,Sud,SS. 18,<b>185 000 €</b>,3751 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,107,R+1,"66,69 m2","6,1 m2",,Nord,SS. 23 / 23 bis,<b>247 000 €</b>,3703 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,106,R+1,"41,15 m2","8,38 m2",,Nord,Ext. 8,<b>177 000 €</b>,4301 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,105,R+1,"61,33 m2","8,75 m2",,Nord,"SS. 31, Ext. 26",<b>232 000 €</b>,3782 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,104,R+1,"60,84 m2","8,81 m2",,Nord,"SS. 30, Ext. 25",<b>231 000 €</b>,3796 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,103,R+1,"46,07 m2",,,Nord,Ext. 7,<b>176 000 €</b>,3820 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,102,R+1,"48,08 m2","8,37 m2",,Sud,SS. 17,<b>198 000 €</b>,4118 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,101,R+1,"64,06 m2","10,29 m2",,Sud,SS. 22 / 22 bis,<b>246 000 €</b>,3840 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,9,RdC,"63,28 m2","6,3 m2",,Sud,"SS. 29, Ext. 24",<b>242 000 €</b>,3824 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,8,RdC,"69,13 m2","6,3 m2",,Sud,SS. 21 / 21 bis,<b>249 000 €</b>,3601 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,7,RdC,"47,44 m2","6,62 m2","6,82 m2",Nord,Ext. 6,<b>184 000 €</b>,3878 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,5,RdC,"61,33 m2","9,68 m2","22,22 m2",Nord,"SS. 28, Ext. 20",<b>229 000 €</b>,3733 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,4,RdC,"60,93 m2","9,95 m2","22,33 m2",Nord,"SS. 27, Ext. 19",<b>228 000 €</b>,3741 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,2,RdC,"44,73 m2",5 m2,"1,29 m2",Sud,Ext. 4,<b>183 000 €</b>,4091 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1,RdC,"59,8 m2","6,35 m2","5,65 m2",Sud,"SS. 26, Ext. 18",<b>235 000 €</b>,3929 €/m2,Disponible,<button>Plan</button>

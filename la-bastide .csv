@@ -1,0 +1,12 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,01A301,,"40,86 m2",,,Est,,<b>190 000 €</b>,4652 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01A302,,"40,24 m2",,,Est,,<b>195 000 €</b>,4863 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01A401,,"40,86 m2",,,Est,,<b>198 000 €</b>,4853 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01A402,,"40,24 m2",,,Est,,<b>198 000 €</b>,4941 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A105,,"57,8 m2",,,Ouest,,<b>237 000 €</b>,4107 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A205,,"57,8 m2",,,Ouest,,<b>237 000 €</b>,4107 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,01A103,,"81,3 m2",,,Traversant,,<b>303 000 €</b>,3737 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,01A203,,"81,3 m2",,,Traversant,,<b>307 000 €</b>,3776 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,01A303,,"81,3 m2",,,Traversant,,<b>310 000 €</b>,3814 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,01A403,,"81,3 m2",,,Traversant,,<b>314 000 €</b>,3865 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,01A407,,84 m2,,,Traversant,,<b>323 000 €</b>,3853 €/m2,Disponible,<button>Plan</button>

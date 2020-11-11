@@ -1,0 +1,9 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T3</b>,A01,RdC,"64,1 m2","9,34 m2",,,pkg. ssol. 16,<b>265 000 €</b>,4134 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A12,R+1,"58,69 m2","6,5 m2",,,pkg. ssol. 19,<b>285 000 €</b>,4856 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A09,R+1,"62,22 m2","9,62 m2",,,pkg. ssol. 15,<b>300 000 €</b>,4821 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A28,R+3,"58,74 m2","10,07 m2",,,pkg. ssol. 38D,<b>305 000 €</b>,5192 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A01,,"64,1 m2",,,Sud,,<b>265 000 €</b>,4134 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A12,,"58,69 m2",,,Sud,,<b>285 000 €</b>,4856 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A09,,"62,22 m2",,,Sud,,<b>300 000 €</b>,4821 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A28,,"58,74 m2",,,Sud,,<b>305 000 €</b>,5192 €/m2,Optionné,<button>Plan</button>

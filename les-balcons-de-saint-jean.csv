@@ -1,0 +1,23 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan,
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A07,R+1,"39,65 m2","4,41 m2",,,pkg. ssol. 33,<b>180 000 €</b>,4539 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A21,R+3,"39,65 m2","7,44 m2",,,pkg. ssol. 01,<b>188 000 €</b>,4741 €/m2,Optionné,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A20,R+3,"45,07 m2","7,58 m2",,,pkg. ssol. 02,<b>195 000 €</b>,4326 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A12,R+2,"44,88 m2","6,67 m2",,,pkg. ssol. 12,<b>198 000 €</b>,4411 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A18,R+3,"43,86 m2","8,47 m2",,,pkg. ssol. 09,<b>203 000 €</b>,4628 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A19,R+3,"46,3 m2","6,67 m2",,,pkg. ssol. 08,<b>203 000 €</b>,4384 €/m2,Optionné,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A22,R+4,"41,52 m2","7,55 m2",,,pkg. ssol. 03,<b>203 000 €</b>,4889 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A24,R+4,"43,86 m2","8,47 m2",,,pkg. ssol. 13B,<b>208 000 €</b>,4742 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A32,R+5,"39,65 m2","13,47 m2",,,pkg. ssol. 05B,<b>208 000 €</b>,5245 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A25,R+4,"46,3 m2","6,67 m2",,,pkg. ssol. 14,<b>213 000 €</b>,4600 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T3</b>,A02,R+1,"56,41 m2","4,53 m2",,,pkg. ssol. 23,<b>230 000 €</b>,4077 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A07,,"39,65 m2",,,Nord,,<b>180 000 €</b>,4539 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A21,,"39,65 m2",,,Nord,,<b>188 000 €</b>,4741 €/m2,Optionné,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A20,,"45,07 m2",,,Nord,,<b>195 000 €</b>,4326 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A12,,"44,88 m2",,,Sud,,<b>198 000 €</b>,4411 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A22,,"41,52 m2",,,Nord,,<b>203 000 €</b>,4889 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A19,,"46,3 m2",,,Sud,,<b>203 000 €</b>,4384 €/m2,Optionné,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A18,,"43,86 m2",,,Sud,,<b>203 000 €</b>,4628 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A32,,"39,65 m2",,,Nord,,<b>208 000 €</b>,5245 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A24,,"43,86 m2",,,Sud,,<b>208 000 €</b>,4742 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T2</b>,A25,,"46,3 m2",,,Sud,,<b>213 000 €</b>,4600 €/m2,Disponible,<button>Plan</button>
+LES BALCONS DE SAINT-JEAN,<b>T3</b>,A02,,"56,41 m2",,,Est,,<b>230 000 €</b>,4077 €/m2,Disponible,<button>Plan</button>

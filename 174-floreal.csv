@@ -1,0 +1,8 @@
+Type,N.,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,1009,,36.1 m2,,,Nord-Est,,193 000 €,5351 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1015,,36.05 m2,,,Nord-Est,,206 000 €,5739 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,1004,,42.7 m2,,,Nord,,207 000 €,4861 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,1022,,44.05 m2,,,Sud-Ouest,,265 000 €,6018 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1036,,53.8 m2,,,Nord-Est,,270 000 €,5026 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1012,,63.75 m2,,,Sud-Est,,309 000 €,4859 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,1043,,61.7 m2,,,Sud-Est,,324 000 €,5266 €/m2,Optionné,<button>Plan</button>

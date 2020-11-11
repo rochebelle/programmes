@@ -1,0 +1,4 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T3</b>,A003,,"67,47 m2",,,Sud,,<b>219 000 €</b>,3245 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A107,,"69,05 m2",,,Sud,,<b>225 000 €</b>,3258 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A105,,"68,46 m2",,,Sud-Est,,<b>229 000 €</b>,3345 €/m2,Optionné,<button>Plan</button>

@@ -1,0 +1,18 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T3</b>,C11,R+1,"63,55 m2","7,32 m2",,,pkg. ssol. 74,<b>340 000 €</b>,5350 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C14,R+2,"61,07 m2","33,01 m2",,,pkg. ssol. 65,<b>355 000 €</b>,5813 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,C22,R+4,"61,07 m2","7,44 m2",,,pkg. ssol. 63,<b>355 000 €</b>,5813 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C01,RdC,"64,38 m2","12,58 m2",,,pkg. ssol. 62,<b>365 000 €</b>,5669 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C15,R+2,"63,73 m2","11,17 m2",,,pkg. ssol. 38H,<b>365 000 €</b>,5727 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C05,R+1,"64,71 m2","7,24 m2",,,pkg. ssol. double 83,<b>370 000 €</b>,5717 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C07,R+1,"66,01 m2","12,58 m2",,,pkg. ssol. double 82,<b>370 000 €</b>,5605 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C19,R+3,"63,73 m2","9,48 m2",,,pkg. ssol. double 26,<b>370 000 €</b>,5805 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C26,R+5,"61,07 m2","7,43 m2",,,Garage ssol. double 29,<b>370 000 €</b>,6058 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C23,R+4,"63,73 m2","9,4 m2",,,Garage ssol. double 27,<b>375 000 €</b>,5884 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C17,R+3,"66,69 m2","9,88 m2",,,Garage ssol. double 28,<b>380 000 €</b>,5698 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C27,R+5,"63,48 m2","9,42 m2",,,Garage ssol. double 81,<b>380 000 €</b>,5986 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C25,R+5,"66,69 m2","9,88 m2",,,Garage ssol. double 79,<b>390 000 €</b>,5847 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C12,R+2,"65,18 m2","10,82 m2",,,Garage ssol. double 31,<b>395 000 €</b>,6060 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,C16,R+3,"65,18 m2","9,47 m2",,,Garage ssol. double 30,<b>400 000 €</b>,6136 €/m2,Disponible,<button>Plan</button>
+<b>ce</b>,LC01,RdC,"84,63 m2","8,59 m2",,,pkg. ssol. 6 & 7,<b>355 000 €</b>,4200 €/m2,Disponible,<button>Plan</button>
+<b>ce</b>,LC02,RdC,"132,42 m2",,,,pkg. ssol. 101 & 102,<b>556 000 €</b>,4200 €/m2,Disponible,<button>Plan</button>

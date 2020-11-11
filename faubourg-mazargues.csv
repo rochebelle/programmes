@@ -1,0 +1,19 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T1</b>,01B42,,"29,94 m2",,,Est,,<b>191 000 €</b>,6396 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01B15,,"37,93 m2",,,Sud,,<b>238 000 €</b>,6287 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01B25,,"37,93 m2",,,Sud,,<b>241 000 €</b>,6366 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,01A13,,"59,04 m2",,,Ouest,,<b>308 000 €</b>,5225 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A23,,"59,04 m2",,,Ouest,,<b>311 000 €</b>,5276 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B31,,"68,6 m2",,,Ouest,,<b>315 000 €</b>,4591 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B41,,"68,61 m2",,,Ouest,,<b>318 000 €</b>,4634 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01C21,,"64,09 m2",,,Nord,,<b>320 000 €</b>,4992 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01C12,,"64,43 m2",,,Sud,,<b>328 000 €</b>,5090 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B16,,"67,6 m2",,,Sud,,<b>336 000 €</b>,4977 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01C42,,"64,43 m2",,,Sud,,<b>337 000 €</b>,5230 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,01B26,,"67,6 m2",,,Sud,,<b>339 000 €</b>,5022 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B36,,"67,6 m2",,,Sud,,<b>342 000 €</b>,5066 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B46,,"67,6 m2",,,Sud,,<b>345 000 €</b>,5110 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B06,,"67,6 m2",,,Sud,,<b>369 000 €</b>,5465 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,01A44,,"80,75 m2",,,Nord-Ouest,,<b>394 000 €</b>,4879 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B51,,"69,46 m2",,,Nord-Ouest,,<b>398 000 €</b>,5729 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,01C23,,"80,97 m2",,,Sud-Ouest,,<b>412 000 €</b>,5088 €/m2,Disponible,<button>Plan</button>

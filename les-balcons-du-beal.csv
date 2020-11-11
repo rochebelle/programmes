@@ -1,0 +1,9 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T3</b>,B19,R+2,"72,65 m2","7,63 m2",,,pkg. ssol. 0019 & 0020,<b>275 000 €</b>,3785 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B28,R+3,"66,28 m2","6,89 m2",,,pkg. ssol. 057 & 058,<b>280 000 €</b>,4224 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B33,R+4,"56,21 m2","13,4 m2",,,pkg. ssol. 034 & 035,<b>290 000 €</b>,5159 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B30,R+4,"78,4 m2","11,28 m2",,,pkg. ssol. 032 & 033,<b>325 000 €</b>,4145 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B19,,"72,65 m2",,,Sud-Ouest,,<b>275 000 €</b>,3785 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B28,,"66,28 m2",,,Sud-Ouest,,<b>280 000 €</b>,4224 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,B33,,"56,21 m2",,,Sud-Ouest,,<b>290 000 €</b>,5159 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,B30,,"78,4 m2",,,Sud-Est,,<b>335 000 €</b>,4272 €/m2,Disponible,<button>Plan</button>

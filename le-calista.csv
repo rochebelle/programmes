@@ -1,0 +1,9 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,B2-407,R+4,"40,9 m2","6,8 m2",,Nord,23,<b>221 000 €</b>,5403 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,B2-406,R+4,"45,4 m2","8,2 m2",,Nord,22,<b>235 000 €</b>,5176 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B2-401,R+4,39 m2,,,Est,19,<b>205 000 €</b>,5256 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B2-307,R+3,"40,9 m2","6,8 m2",,Nord,17,<b>218 000 €</b>,5330 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B2-306,R+3,"45,4 m2","8,2 m2",,Nord,16,<b>232 000 €</b>,5110 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B2-301,R+3,39 m2,,,Est,13,<b>202 000 €</b>,5179 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B2-210,R+2,"45,4 m2","8,8 m2",,Sud,12,<b>239 000 €</b>,5264 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,B2-206,R+2,"45,4 m2","8,2 m2",,Nord,9,<b>229 000 €</b>,5044 €/m2,Disponible,<button>Plan</button>

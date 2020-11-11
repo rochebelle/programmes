@@ -1,0 +1,4 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T3</b>,A15,R+2,"52,43 m2","20,5 m2",,,pkg. ext. CA1 & ssol. 5,<b>210 000 €</b>,4005 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,B23,R+3,"75,29 m2","16,88 m2",,,pkg. ssol. 34D,<b>275 000 €</b>,3652 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,B23,,"75,29 m2",,,Nord-Ouest,,<b>275 000 €</b>,3652 €/m2,Optionné,<button>Plan</button>

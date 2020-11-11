@@ -1,0 +1,25 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,01A31,,"38,5 m2",,,Est,,<b>210 000 €</b>,5454 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,01A33,,42 m2,,,Ouest,,<b>225 000 €</b>,5357 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A15,,"54,75 m2",,,Est,,<b>238 000 €</b>,4347 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A25,,"54,75 m2",,,Est,,<b>243 000 €</b>,4438 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B22,,"58,55 m2",,,Est,,<b>255 000 €</b>,4355 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B32,,"58,55 m2",,,Est,,<b>260 000 €</b>,4440 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B14,,"59,25 m2",,,Ouest,,<b>261 000 €</b>,4405 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B24,,"59,25 m2",,,Ouest,,<b>266 000 €</b>,4489 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B34,,"59,25 m2",,,Ouest,,<b>271 000 €</b>,4573 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B13,,61 m2,,,Est,,<b>275 000 €</b>,4508 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A12,,"61,25 m2",,,Sud,,<b>279 000 €</b>,4555 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B23,,61 m2,,,Est,,<b>280 000 €</b>,4590 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A13,,"61,25 m2",,,Sud,,<b>283 000 €</b>,4620 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A22,,"61,25 m2",,,Sud,,<b>284 000 €</b>,4636 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B33,,61 m2,,,Est,,<b>285 000 €</b>,4672 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01A03,,"61,25 m2",,,Sud,,<b>288 000 €</b>,4702 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,01B03,,61 m2,,,Est,,<b>296 000 €</b>,4852 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,01A26,,"92,65 m2",,,Est,,<b>364 000 €</b>,3928 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,01A32,,"82,4 m2",,,Sud,,<b>375 000 €</b>,4550 €/m2,Optionné,<button>Plan</button>
+<b>T2</b>,A27,R+2,"41,9 m2","7,9 m2",,Est,PEX 05,<b>202 000 €</b>,4821 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A24,R+2,"58,2 m2","12,3 m2",,Ouest,BOX 21,<b>256 000 €</b>,4398 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,A17,R+1,"41,9 m2","7,9 m2",,Est,PEX 07,<b>197 000 €</b>,4701 €/m2,Disponible,<button>Plan</button>
+<b>T3</b>,A11,R+1,"60,1 m2",14 m2,,Est,BOX 20,<b>246 000 €</b>,4093 €/m2,Disponible,<button>Plan</button>
+<b>T2</b>,A07,RdC,"41,9 m2","7,9 m2",,Est,PEX 09,<b>182 000 €</b>,4343 €/m2,Disponible,<button>Plan</button>

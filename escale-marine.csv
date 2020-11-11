@@ -1,0 +1,24 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,A12,R+1,"47,97 m2",,,,,<b>271 000 €</b>,5649 €/m2,Réservé,<button>Plan</button>
+<b>T3</b>,A21,R+2,"56,54 m2",,,,,<b>324 000 €</b>,5730 €/m2,Réservé,<button>Plan</button>
+<b>T3</b>,V04,RdC,"59,74 m2",,,,,<b>345 000 €</b>,5775 €/m2,Réservé,<button>Plan</button>
+<b>T3</b>,V08,RdC,"60,1 m2",,,,,<b>323 000 €</b>,5374 €/m2,Réservé,<button>Plan</button>
+<b>T3</b>,A11,R+1,"68,23 m2",,,,,<b>359 000 €</b>,5261 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,A01,RdC,"68,23 m2",,,,,<b>345 000 €</b>,5056 €/m2,Réservé,<button>Plan</button>
+<b>T4</b>,V14,RdC,"79,68 m2",,,,,<b>433 000 €</b>,5434 €/m2,Optionné,<button>Plan</button>
+<b>T4</b>,V01,RdC,"79,72 m2",,,,,<b>425 000 €</b>,5331 €/m2,Réservé,<button>Plan</button>
+<b>Maison T4</b>,V18,RdC,"76,97 m2",,,,,<b>422 000 €</b>,5482 €/m2,Optionné,<button>Plan</button>
+<b>Maison T4</b>,V21,RdC,"77,84 m2",,,,,<b>415 000 €</b>,5331 €/m2,Optionné,<button>Plan</button>
+<b>Maison T4</b>,V23,RdC,"77,95 m2",,,,,<b>397 000 €</b>,5093 €/m2,Optionné,<button>Plan</button>
+<b>Maison T4</b>,V24,RdC,"77,95 m2",,,,,<b>403 000 €</b>,5169 €/m2,Disponible,<button>Plan</button>
+<b>Maison T4</b>,V22,RdC,"77,95 m2",,,,,<b>408 000 €</b>,5234 €/m2,Disponible,<button>Plan</button>
+<b>Maison T4</b>,V25,RdC,"77,97 m2",,,,,<b>408 000 €</b>,5232 €/m2,Disponible,<button>Plan</button>
+<b>Maison T4</b>,V26,RdC,"78,03 m2",,,,,<b>433 000 €</b>,5549 €/m2,Réservé,<button>Plan</button>
+<b>Maison T4</b>,V27,RdC,"78,5 m2",,,,,<b>453 000 €</b>,5770 €/m2,Réservé,<button>Plan</button>
+<b>Maison T4</b>,V06,RdC,"79,66 m2",,,,,<b>422 000 €</b>,5297 €/m2,Réservé,<button>Plan</button>
+<b>Maison T4</b>,V02,RdC,"80,16 m2",,,,,<b>418 000 €</b>,5214 €/m2,Disponible,<button>Plan</button>
+<b>Maison T4</b>,V03,RdC,"80,16 m2",,,,,<b>415 000 €</b>,5177 €/m2,Disponible,<button>Plan</button>
+<b>Maison T4</b>,V15,RdC,"80,23 m2",,,,,<b>413 000 €</b>,5147 €/m2,Optionné,<button>Plan</button>
+<b>Maison T4</b>,V16,RdC,"80,23 m2",,,,,<b>408 000 €</b>,5085 €/m2,Optionné,<button>Plan</button>
+<b>Maison T4</b>,V29,RdC,"86,04 m2",,,,,<b>488 000 €</b>,5671 €/m2,Réservé,<button>Plan</button>
+<b>Maison T4</b>,V28,RdC,"86,04 m2",,,,,<b>483 000 €</b>,5613 €/m2,Disponible,<button>Plan</button>

@@ -1,0 +1,5 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T4</b>,6,RdC,"72,55 m2",,,,35 et 36 et 39,<b>272 000 €</b>,3749 €/m2,Disponible,<button>Plan</button>
+<b>T4</b>,1,RdC,"73,52 m2",,,,1 et 37 et 15,<b>262 000 €</b>,3563 €/m2,Optionné,<button>Plan</button>
+<b>T3</b>,2,RdC,"68,75 m2",,,,3 et 4,<b>243 000 €</b>,3534 €/m2,Vendu,<button>Plan</button>
+<b>T3</b>,8,R+1,"68,53 m2",,,,25 et 26,<b>229 000 €</b>,3341 €/m2,Vendu,<button>Plan</button>
