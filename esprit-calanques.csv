@@ -1,0 +1,6 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T3</b>,A24,R+2,"65,74 m2","23,63 m2",,NordOuest,Oui,<b>480 000 €</b>,7301 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A23,R+2,"84,06 m2","17,93 m2",,NordOuest,Oui,<b>610 000 €</b>,7256 m2/€,Optionné,<button>Plan</button>
+<b>T4</b>,A32,R+3,"82,9 m2","21,32 m2",,NordOuest,Oui,<b>590 000 €</b>,7117 m2/€,Disponible,<button>Plan</button>
+<b>T4</b>,A31,R+3,"110,16 m2","19,93 m2",,NordOuest,Oui,<b>790 000 €</b>,7171 m2/€,Disponible,<button>Plan</button>
+<b>T4</b>,C31,R+3,"82,14 m2","28,9 m2",,NordOuest,Oui,<b>590 000 €</b>,7182 m2/€,Optionné,<button>Plan</button>

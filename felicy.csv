@@ -1,0 +1,4 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T5</b>,M07,RdC,"98,53 m2","52,84 m2",,NordSud,Oui,<b>560 000 €</b>,5683 m2/€,Optionné,<button>Plan</button>
+<b>T5</b>,M03,RdC,"104,05 m2","44,6 m2",,NordSud,Oui,<b>580 000 €</b>,5574 m2/€,Disponible,<button>Plan</button>
+<b>T6</b>,M09,RdC,"118,25 m2","50,35 m2",,,Oui,<b>710 000 €</b>,6004 m2/€,Disponible,<button>Plan</button>

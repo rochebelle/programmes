@@ -1,0 +1,3 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,2207,R+1,"39,67 m2","7,95 m2",,Nord,Oui,<b>195 500 €</b>,4928 m2/€,Optionné,<button>Plan</button>
+<b>T4</b>,2405,R+3,"86,55 m2","85,48 m2",,NordEst,Oui,<b>372 500 €</b>,4303 m2/€,Disponible,<button>Plan</button>

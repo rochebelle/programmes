@@ -1,0 +1,38 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T2</b>,C24,R+2,"46,73 m2","8,9 m2",,Sud,Oui,<b>289 000 €</b>,6184 m2/€,Optionné,<button>Plan</button>
+<b>T2</b>,B01PREM,RdC,"51,4 m2",,,EstNord,Oui,<b>317 000 €</b>,6167 m2/€,Optionné,<button>Plan</button>
+<b>T3</b>,D04,RdC,"69,6 m2",,,SudEst,Oui,<b>388 000 €</b>,5574 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,D14,R+1,"69,64 m2","22,94 m2",,SudEst,Oui,<b>403 000 €</b>,5786 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,D22,R+2,"68,94 m2","16,36 m2",,OuestNord,Oui,<b>403 000 €</b>,5845 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,D15,R+1,"69,6 m2","16,76 m2",,SudEst,Oui,<b>408 000 €</b>,5862 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,D16,R+1,"69,6 m2","30,88 m2",,SudOuest,Oui,<b>413 000 €</b>,5933 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,D05,RdC,"69,6 m2",,,SudOuest,Oui,<b>413 000 €</b>,5933 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,C02,RdC,"70,19 m2",,,SudNord,Oui,<b>415 000 €</b>,5912 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,C15,R+1,"68,94 m2","31,96 m2",,SudOuest,Oui,<b>420 000 €</b>,6092 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,D25,R+2,"69,6 m2","15,12 m2",,SudEst,Oui,<b>422 000 €</b>,6063 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,D02,RdC,"68,94 m2",,,EstNord,Oui,<b>423 000 €</b>,6135 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,C23,R+2,"67,6 m2","21,2 m2",,SudEst,Oui,<b>423 000 €</b>,6257 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,C25,R+2,"68,94 m2","27,85 m2",,SudOuest,Oui,<b>430 000 €</b>,6237 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,C22,R+2,"70,19 m2","25,43 m2",,SudOuest,Oui,<b>435 000 €</b>,6197 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,B12PREM,R+1,"72,13 m2","27,11 m2",,SudEst,Oui,<b>437 000 €</b>,6058 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A05PREM,RdC,"74,32 m2",,,Est,Oui,<b>440 000 €</b>,5920 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A15PREM,R+1,"74,32 m2","17,6 m2",,Est,Oui,<b>445 000 €</b>,5987 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,D35PREM,R+3,"69,6 m2","16,76 m2",,SudEst,Oui,<b>447 000 €</b>,6422 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A14PREM,R+1,"75,07 m2","20,08 m2",,EstNord,Oui,<b>455 000 €</b>,6061 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A25PREM,R+2,"74,32 m2","17,6 m2",,Est,Oui,<b>455 000 €</b>,6122 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,B14PREM,R+1,72 m2,"17,48 m2",,SudOuest,Oui,<b>457 000 €</b>,6347 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A26PREM,R+2,"75,11 m2","34,97 m2",,SudEst,Oui,<b>460 000 €</b>,6124 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A16PREM,R+1,"75,11 m2","34,97 m2",,SudEst,Oui,<b>460 000 €</b>,6124 m2/€,Optionné,<button>Plan</button>
+<b>T3</b>,B15PREM,R+1,"72,46 m2","31,22 m2",,OuestEst,Oui,<b>462 000 €</b>,6375 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,D34PREM,R+3,"69,64 m2","19,95 m2",,SudEst,Oui,<b>463 000 €</b>,6648 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A04PREM,RdC,"75,07 m2",,,EstNord,Oui,<b>464 000 €</b>,6180 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A35PREM,R+3,"74,32 m2","17,6 m2",,Est,Oui,<b>465 000 €</b>,6256 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A24PREM,R+2,"75,07 m2","18,18 m2",,EstNord,Oui,<b>465 000 €</b>,6194 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,B32PREM,R+3,"72,13 m2","31,12 m2",,SudEst,Oui,<b>468 000 €</b>,6488 m2/€,Disponible,<button>Plan</button>
+<b>T3</b>,A12PREM,R+1,"74,92 m2","22,18 m2",,OuestSud,Oui,<b>470 000 €</b>,6273 m2/€,Optionné,<button>Plan</button>
+<b>T3</b>,B25PREM,R+2,"72,46 m2","35,6 m2",,OuestEst,Oui,<b>478 000 €</b>,6596 m2/€,Disponible,<button>Plan</button>
+<b>T4</b>,B13PREM,R+1,"104,52 m2","31,87 m2",,SudOuest,Oui,<b>709 000 €</b>,6783 m2/€,Disponible,<button>Plan</button>
+<b>T4</b>,A13PREM,R+1,"109,18 m2","25,68 m2",,OuestNord,Oui,<b>712 000 €</b>,6521 m2/€,Optionné,<button>Plan</button>
+<b>T4</b>,B23PREM,R+2,"104,52 m2","33,87 m2",,SudOuest,Oui,<b>719 000 €</b>,6879 m2/€,Optionné,<button>Plan</button>
+<b>T4</b>,A23PREM,R+2,"109,18 m2","25,68 m2",,OuestNord,Oui,<b>735 000 €</b>,6732 m2/€,Disponible,<button>Plan</button>
+<b>T4</b>,B41PREM,R+4,"148,48 m2","29,64 m2",,OuestEst,Oui,<b>1 093 000 €</b>,7361 m2/€,Disponible,<button>Plan</button>

@@ -1,0 +1,7 @@
+Type,Lot,Etage,Surface,Terrasse,Jardin,Exposition,Parking,Prix,Prix m2,Statut,Plan
+<b>T4</b>,4501,R+5,"82,08 m2","12,06 m2",,SudOuest,Oui,<b>391 000 €</b>,4763 m2/€,Disponible,<button>Plan</button>
+<b>T4</b>,2802,R+8,"79,49 m2","19,71 m2",,SudEst,Oui,<b>435 000 €</b>,5472 m2/€,Disponible,<button>Plan</button>
+<b>T4</b>,5805,R+8,"91,29 m2","34,41 m2",,SudEst,Oui,<b>635 000 €</b>,6955 m2/€,Disponible,<button>Plan</button>
+<b>T4</b>,5804,R+8,"114,28 m2","42,71 m2",,SudEst,Oui,<b>835 000 €</b>,7306 m2/€,Optionné,<button>Plan</button>
+<b>T5</b>,5810,R+8,"121,55 m2","32,24 m2",,SudEst,Oui,<b>910 000 €</b>,7486 m2/€,Disponible,<button>Plan</button>
+<b>T5</b>,5801,R+8,"134,64 m2","65,43 m2",,SudOuest,Oui,<b>1 010 000 €</b>,7501 m2/€,Disponible,<button>Plan</button>
